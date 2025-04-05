@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Luiz Marçon
-Estudante na UTFPR,
+Sou estudante na UTFPR,
 Apaixonado por tecnologia e empreendedorismo, busco sempre alguma forma de inovar e implementar soluções para problemas de maneira inteligente.
 
 <div>
